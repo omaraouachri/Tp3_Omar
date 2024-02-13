@@ -5,7 +5,7 @@
 
 ## Installation des Dépendances
 
-```
+```bash
 pip install -r requirements.txt
 ```
 ## Expansion de Requête et Classement
